@@ -14,5 +14,6 @@ WHEN I refresh the page
 THEN the saved events persist
 ## Screenshot
 <img width="1440" alt="Screen Shot 2023-01-03 at 2 23 01 PM" src="https://user-images.githubusercontent.com/115964908/210443577-40722ca5-cf7f-426a-803b-cec444280571.png">
+
 ## Link
-Here is a link to the deployed application
+Here is a link to the deployed application https://itsnotjose.github.io/day-planner/
